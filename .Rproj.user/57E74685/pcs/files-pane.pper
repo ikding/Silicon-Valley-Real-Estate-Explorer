@@ -1,0 +1,9 @@
+{
+    "path" : "~/Dropbox/Documents/MOOC/Datasets/Santa-Clara-County-Housing-Explorer",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
